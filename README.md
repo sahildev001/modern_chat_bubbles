@@ -97,12 +97,12 @@ ChatControllerProvider(
 <div align="center">
   <table>
     <tr>
-      <td><img src="https://github.com/sahildev001/modern_chat_bubbles/blob/main/screenshots/glassmorphic.png" width="250"/></td>
-      <td><img src="https://github.com/sahildev001/modern_chat_bubbles/blob/main/screenshots/neomorphic.png" width="250"/></td>
-      <td><img src="https://github.com/sahildev001/modern_chat_bubbles/blob/main/screenshots/dark.png" width="250"/></td>
-      <td><img src="https://github.com/sahildev001/modern_chat_bubbles/blob/main/screenshots/colour_picker.png" width="250"/></td>
-      <td><img src="https://github.com/sahildev001/modern_chat_bubbles/blob/main/screenshots/customize_colour_menu.png" width="250"/></td>
-      <td><img src="https://github.com/sahildev001/modern_chat_bubbles/blob/main/screenshots/settings.png" width="250"/></td>
+      <td><img src="https://raw.githubusercontent.com/sahildev001/modern_chat_bubbles/main/screenshots/glassmorphic.png" width="250"/></td>
+      <td><img src="https://raw.githubusercontent.com/sahildev001/modern_chat_bubbles/main/screenshots/neomorphic.png" width="250"/></td>
+      <td><img src="https://raw.githubusercontent.com/sahildev001/modern_chat_bubbles/main/screenshots/dark.png" width="250"/></td>
+      <td><img src="https://raw.githubusercontent.com/sahildev001/modern_chat_bubbles/main/screenshots/colour_picker.png" width="250"/></td>
+      <td><img src="https://raw.githubusercontent.com/sahildev001/modern_chat_bubbles/main/screenshots/customize_colour_menu.png" width="250"/></td>
+      <td><img src="https://raw.githubusercontent.com/sahildev001/modern_chat_bubbles/main/screenshots/settings.png" width="250"/></td>
     </tr>
     <tr>
       <td align="center">Glassmorphic Theme</td>
@@ -118,9 +118,9 @@ ChatControllerProvider(
 <div align="center">
   <table>
     <tr>
-      <td><img src="https://github.com/sahildev001/modern_chat_bubbles/blob/main/screenshots/reply_copy_delete_menu.png" width="250"/></td>
-      <td><img src="https://github.com/sahildev001/modern_chat_bubbles/blob/main/screenshots/reply_message.png" width="250"/></td>
-      <td><img src="https://github.com/sahildev001/modern_chat_bubbles/blob/main/screenshots/reply_feature.png" width="250"/></td>
+      <td><img src="https://raw.githubusercontent.com/sahildev001/modern_chat_bubbles/main/screenshots/reply_copy_delete_menu.png" width="250"/></td>
+      <td><img src="https://raw.githubusercontent.com/sahildev001/modern_chat_bubbles/main/screenshots/reply_message.png" width="250"/></td>
+      <td><img src="https://raw.githubusercontent.com/sahildev001/modern_chat_bubbles/main/screenshots/reply_feature.png" width="250"/></td>
     </tr>
     <tr>
       <td align="center">Reply, Copy,Delete Menu</td>
