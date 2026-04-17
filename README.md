@@ -9,7 +9,7 @@
 A lightweight, production-ready chat bubble package for Flutter with glassmorphic and neomorphic design support. Built with performance and complete customization in mind.
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/yourusername/modern_chat_bubbles/main/screenshots/banner.png" alt="Modern Chat Bubbles" width="800"/>
+  <img src="https://github.com/yourusername/modern_chat_bubbles/main/screenshots/banner.png" alt="Modern Chat Bubbles" width="800"/>
 </p>
 
 ## Table of Contents
@@ -97,12 +97,12 @@ ChatControllerProvider(
 <div align="center">
   <table>
     <tr>
-      <td><img src="https://raw.githubusercontent.com/sahildev001/modern_chat_bubbles/screenshots/glassmorphic.png" width="250"/></td>
-      <td><img src="https://raw.githubusercontent.com/sahildev001/modern_chat_bubbles/screenshots/neomorphic.png" width="250"/></td>
-      <td><img src="https://raw.githubusercontent.com/sahildev001/modern_chat_bubbles/screenshots/dark.png" width="250"/></td>
-      <td><img src="https://raw.githubusercontent.com/sahildev001/modern_chat_bubbles/screenshots/colour_picker.png" width="250"/></td>
-      <td><img src="https://raw.githubusercontent.com/sahildev001/modern_chat_bubbles/screenshots/customize_colour_menu.png" width="250"/></td>
-      <td><img src="https://raw.githubusercontent.com/sahildev001/modern_chat_bubbles/screenshots/settings.png" width="250"/></td>
+      <td><img src="https://github.com/sahildev001/modern_chat_bubbles/screenshots/glassmorphic.png" width="250"/></td>
+      <td><img src="https://github.com/sahildev001/modern_chat_bubbles/screenshots/neomorphic.png" width="250"/></td>
+      <td><img src="https://github.com/sahildev001/modern_chat_bubbles/screenshots/dark.png" width="250"/></td>
+      <td><img src="https://github.com/sahildev001/modern_chat_bubbles/screenshots/colour_picker.png" width="250"/></td>
+      <td><img src="https://github.com/sahildev001/modern_chat_bubbles/screenshots/customize_colour_menu.png" width="250"/></td>
+      <td><img src="https://github.com/sahildev001/modern_chat_bubbles/screenshots/settings.png" width="250"/></td>
     </tr>
     <tr>
       <td align="center">Glassmorphic Theme</td>
@@ -118,9 +118,9 @@ ChatControllerProvider(
 <div align="center">
   <table>
     <tr>
-      <td><img src="https://raw.githubusercontent.com/sahildev001/modern_chat_bubbles/screenshots/reply_copy_delete_menu.png" width="250"/></td>
-      <td><img src="https://raw.githubusercontent.com/sahildev001/modern_chat_bubbles/screenshots/reply_message.png" width="250"/></td>
-      <td><img src="https://raw.githubusercontent.com/sahildev001/modern_chat_bubbles/screenshots/reply_feature.png" width="250"/></td>
+      <td><img src="https://github.com/sahildev001/modern_chat_bubbles/screenshots/reply_copy_delete_menu.png" width="250"/></td>
+      <td><img src="https://github.com/sahildev001/modern_chat_bubbles/screenshots/reply_message.png" width="250"/></td>
+      <td><img src="https://github.com/sahildev001/modern_chat_bubbles/screenshots/reply_feature.png" width="250"/></td>
     </tr>
     <tr>
       <td align="center">Reply, Copy,Delete Menu</td>
@@ -331,7 +331,7 @@ The package is designed with performance as a primary concern:
 
 ## Example App
 
-The [example](https://github.com/yourusername/modern_chat_bubbles/tree/main/example) directory contains a comprehensive demo showcasing:
+The [example](https://github.com/sahildev001/modern_chat_bubbles/tree/main/example_app) directory contains a comprehensive demo showcasing:
 
 - Five built-in themes with live switching
 - Real-time color customization
