@@ -1,5 +1,3 @@
-# Professional README.md
-
 ```markdown
 # Modern Chat Bubbles
 
