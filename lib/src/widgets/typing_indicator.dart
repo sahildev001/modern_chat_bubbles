@@ -69,7 +69,7 @@ class _ModernTypingIndicatorState extends State<ModernTypingIndicator>
           Container(
             padding: widget.padding,
             decoration: BoxDecoration(
-              color: widget.color.withOpacity(0.2),
+              color: widget.color.withValues(alpha: 0.2),
               borderRadius: BorderRadius.only(
                 topLeft: const Radius.circular(16),
                 topRight: const Radius.circular(16),

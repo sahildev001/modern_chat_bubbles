@@ -1,6 +1,5 @@
 import 'dart:ui';
 import 'package:flutter/material.dart';
-import 'package:intl/intl.dart';
 import '../models/message_model.dart';
 import '../models/bubble_theme.dart';
 import 'bubble_tail.dart';

@@ -1,3 +1,5 @@
-## 0.0.1
+## 1.0.0
 
-* TODO: Describe initial release.
+- Initial release of modern_chat_bubbles
+- Customizable chat UI
+- Animations, themes, reply feature

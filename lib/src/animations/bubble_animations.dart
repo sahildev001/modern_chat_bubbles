@@ -179,10 +179,6 @@ class BubbleAnimations {
       duration: duration,
       curve: Curves.easeOutBack,
       builder: (context, value, widget) {
-        // Create jump effect with slight rotation
-        final jumpValue = value < 0.5
-            ? value * 2
-            : 2 - (value * 2);
 
         return Opacity(
           opacity: value.clamp(0.0, 1.0),
