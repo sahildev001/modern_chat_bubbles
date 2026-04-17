@@ -5,4 +5,5 @@
 - Animations, themes, reply feature
 
 ## 1.0.1
-- Fix Readme.md screenshots
+- Fixed screenshot rendering issue on pub.dev
+- Updated README image URLs to use raw.githubusercontent.com
