@@ -1,0 +1,22 @@
+name: modern_chat_bubbles
+description: A lightweight, customizable Flutter chat bubble package with glassmorphic/neomorphic designs, fluid animations, and tail directions. Fully responsive and easy to integrate.
+version: 1.0.0
+homepage: https://github.com/yourusername/modern_chat_bubbles
+repository: https://github.com/yourusername/modern_chat_bubbles
+
+environment:
+  sdk: '>=3.0.0 <4.0.0'
+  flutter: ">=3.10.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+  intl: ^0.18.0
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^3.0.0
+
+flutter:
+  uses-material-design: true
