@@ -4,7 +4,7 @@
 [![Pub Version](https://img.shields.io/pub/v/modern_chat_bubbles)](https://pub.dev/packages/modern_chat_bubbles)
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/MIT)
 [![Flutter](https://img.shields.io/badge/Flutter-3.10+-02569B.svg)](https://flutter.dev)
-[![Tests](https://img.shields.io/badge/tests-passing-brightgreen.svg)](https://github.com/yourusername/modern_chat_bubbles/actions)
+[![Tests](https://img.shields.io/badge/tests-passing-brightgreen.svg)](https://github.com/sahildev001/modern_chat_bubbles/actions)
 
 A lightweight, production-ready chat bubble package for Flutter with glassmorphic and neomorphic design support. Built with performance and complete customization in mind.
 
